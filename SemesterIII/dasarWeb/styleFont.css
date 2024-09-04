@@ -1,0 +1,19 @@
+/* styleFont.css */
+
+.tuliskan_satu {
+    color: red;
+    font-family: sans-serif;
+    font-style: normal;
+}
+
+.tuliskan_dua {
+    color: green;
+    font-size: 24pt;
+    font-style: italic;
+}
+
+.tuliskan_tiga {
+    color: blue;
+    font-weight: bold;
+    font-style: oblique;
+}
